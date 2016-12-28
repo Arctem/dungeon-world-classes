@@ -31,7 +31,8 @@ Good - Turn a foe into a friend.
 
 Dwarf - **As long as you are touching the ground**, you cannot be moved by attacks that also deal damage. (Strongarm)  
 Human - **When you attack with a thrown weapon**, deal +1d4 damage. (Strongarm)  
-Halfling - **When you defy danger and use your small size to your advantage**, take +1. (Acrobat, Warrior)
+Halfling - **When you defy danger and use your small size to your advantage**, take +1. (Acrobat, Warrior)  
+Orc - When used as a weapon, your body gains forceful and messy.
 
 ### Bonds
 
