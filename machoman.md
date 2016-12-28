@@ -15,17 +15,21 @@ Human: Randy
 
 Halfling: 
 
+Orc: 
+
 ### Look
 
 Choose one from each:
 * Masked, Mullet, or Bald
 * Graveled Growel, Boisterous Cries, or Cocky Laughter
+* Torn Pants, Leather Pants, Loincloth
 
 ### Alignments
 
 Chaotic - Leap into danger without a plan.  
-Neutral - Defeat a worthy opponent.  
-Good - Turn a foe into a friend.
+Evil - Rig a fight in your favor.  
+Good - Turn a foe into a friend.  
+Neutral - Defeat a worthy opponent.
 
 ### Races
 
