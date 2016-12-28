@@ -1,6 +1,6 @@
 # Macho Man
 
-Warrior - Destroyer, Strongarm, Acrobat (from Rogue)
+Based on Class Warfare, with Warrior Archetype and Specialties Destroyer, Strongarm, Acrobat.
 
 ### Stats
 Your base damage is d10.
@@ -29,11 +29,9 @@ Good - Turn a foe into a friend.
 
 ### Races
 
-Dwarf - Once per battle you may reroll a single damage roll (yours or someone else's). (Destroyer)  
-Dwarf - *As long as you are touching the ground*, you cannot be moved by attacks that also deal damage. (Strongarm)  
-Human - *When you attack with a thrown weapon*, deal +1d4 damage. (Strongarm)  
-Human - Once per battle you may reroll a single damage roll (yours or someone else's). (Warrior)  
-Halfling - *When you defy danger and use your small size to your advantage*, take +1. (Acrobat, Warrior)
+Dwarf - **As long as you are touching the ground**, you cannot be moved by attacks that also deal damage. (Strongarm)  
+Human - **When you attack with a thrown weapon**, deal +1d4 damage. (Strongarm)  
+Halfling - **When you defy danger and use your small size to your advantage**, take +1. (Acrobat, Warrior)
 
 ### Bonds
 
