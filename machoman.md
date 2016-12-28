@@ -97,6 +97,12 @@ Anything solid that you can pick up, you can use as a weapon with the appropriat
 *Requires: Perfect Poise*
 **When you fall**, if there is something that could possible break your fall, it does so and you take no damage.
 
+#### Pomp
+**When you use your surroundings to perform a flamboyant acrobatic maneuver**, choose one outcome, in addition to anything else that may happen:
+* You grab something undefended. Now it's yours!
+* You knock someone down or off-balance.
+* You move from where you are to somewhere else in sight or in reach without difficulty.
+
 #### Samson
 You may take a debility to immediately break free of any physical or mental restraint.
 
@@ -105,12 +111,6 @@ You may take a debility to immediately break free of any physical or mental rest
 
 #### Submission Hold
 **When you get your hands on someone**, your next attack against them deals +1d4 damage.
-
-#### Pomp
-**When you use your surroundings to perform a flamboyant acrobatic maneuver**, choose one outcome, in addition to anything else that may happen:
-* You grab something undefended. Now it's yours!
-* You knock someone down or off-balance.
-* You move from where you are to somewhere else in sight or in reach without difficulty.
 
 #### The Bigger They Are
 **When you spout lore about someone you know or you’ve heard of before** (your call), on a hit, you can also ask the GM either of these questions and then take +1 forward when acting on the answer.
@@ -136,18 +136,18 @@ When you gain a level from 6-10, you may choose from these moves as well as the 
 *Replaces: Submission Hold*  
 **When you get your hands on someone**, your next attack against them deals +1d8 damage.
 
+#### Mark of Might
+**When you take this move and spend some uninterrupted time reflecting on your past glories**, you may mark yourself with a symbol of your power (a long braid tied with bells, ritual scars, tattoos, etc). Any intelligent mortal creature who sees this symbol knows instinctively  that you are a force to be reckoned with an treats you appropriately.
+
+#### No Holds Barred
+**When you wield an improvised weapon**, it gains the forceful and messy tags.
+
 #### Pomp and Circumstance
 *Replaces: Pomp*  
 **When you use your surroundings to perform a flamboyant acrobatic maneuver**, choose one outcome, in addition to anything else that may happen:
 * You grab something, even if someone else is holding it. Now it's yours!
 * You knock someone down or off-balance. You may deal damage equal to your level.
 * You move from where you are to somewhere else in sight or in reach without difficulty. You may take someone else with you.
-
-#### Mark of Might
-**When you take this move and spend some uninterrupted time reflecting on your past glories**, you may mark yourself with a symbol of your power (a long braid tied with bells, ritual scars, tattoos, etc). Any intelligent mortal creature who sees this symbol knows instinctively  that you are a force to be reckoned with an treats you appropriately.
-
-#### No Holds Barred
-**When you wield an improvised weapon**, it gains the forceful and messy tags.
 
 #### Serpentine
 **When you employ acrobatics, deft maneuvers, or quick reflexes**, you can defend with DEX instead of CON.
